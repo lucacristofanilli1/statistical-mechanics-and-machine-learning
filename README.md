@@ -54,7 +54,6 @@ jupyter notebook notebooks/
 ├── assets/
 │   ├── exercises/     # Original exercise statements (PDF)
 │   └── solutions/     # Solved exercise reports (PDF)
-├── results/           # Generated plots and outputs
 └── requirements.txt   # Python dependencies
 ```
 
