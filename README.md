@@ -27,8 +27,8 @@ Each notebook is a "computational essay" bridging theoretical physics of neural 
 
 ```bash
 # Clone and setup
-git clone https://github.com/YOUR_USERNAME/StatisticalMechanicsMachineLearning.git
-cd StatisticalMechanicsMachineLearning
+git clone https://github.com/lucacristofanill1/statistical-mechanics-and-machine-learning.git
+cd statistical-mechanics-and-machine-learning
 
 # Create virtual environment
 python -m venv venv
