@@ -12,15 +12,14 @@ Each notebook is a "computational essay" bridging theoretical physics of neural 
 | 02 | [Perceptron Basics](notebooks/02_perceptron_basics.ipynb) | Weight evolution |
 | 03 | [Perceptron + Noise](notebooks/03_perceptron_noise.ipynb) | Noisy learning, storage capacity $\alpha_c = 2$ |
 | 04 | [Annealed Approximation](notebooks/04_annealed_approximation.ipynb) | Annealed Theory and iterative maps $f_1(\varepsilon), f_2(\varepsilon)$ |
-| 05 | [Generalization (Annealed)](notebooks/05_generalization_annealed.ipynb) | Order parameter $R(\alpha)$, parametric solver |
-| 06 | [Generalization (Quenched)](notebooks/06_generalization_quenched.ipynb) | Quenched Theory, $I(R)$ integral |
-| 07 | [Learning Algorithms](notebooks/07_learning_algorithms.ipynb) | Hebb, Adaline, Pseudo-inverse, Bayesian |
+| 05 | [Generalization (Quenched)](notebooks/05_generalization_quenched.ipynb) | Quenched Theory, order parameter $R(\alpha)$, $I(R)$ integral |
+| 06 | [Learning Rules (1)](notebooks/06_learning_rules.ipynb) | Hebb rule, Perceptron rule |
+| 07 | [Learning Rules (2)](notebooks/07_learning_algorithms.ipynb) | Adaline, Pseudo-inverse, Bayesian |
 
 ## 🔬 Key Concepts
 
 - **Teacher-Student Scenario**: A student perceptron learns from examples labeled by a teacher
 - **Generalization Error** $\varepsilon(\alpha)$: Classification error as function of load $\alpha = P/N$
-- **Order Parameter** $R = \mathbf{J} \cdot \mathbf{T} / (|\mathbf{J}||\mathbf{T}|)$: Overlap between student and teacher
 - **Annealed vs Quenched**: Two approximation schemes for averaging over disorder
 
 ## 🚀 Quick Start
