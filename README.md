@@ -6,15 +6,15 @@ Each notebook is a "computational essay" bridging theoretical physics of neural 
 
 ## 📚 Contents
 
-| # | Notebook | Engel Chapter | Topic |
-|---|----------|---------------|-------|
-| 01 | [Polynomial Regression](notebooks/01_polynomial_regression.ipynb) | Intro | MLE, bias-variance tradeoff |
-| 02 | [Perceptron Basics](notebooks/02_perceptron_basics.ipynb) | §2.1-2.2 | Weight evolution |
-| 03 | [Perceptron + Noise](notebooks/03_perceptron_noise.ipynb) | §2.3 | Noisy learning, storage capacity $\alpha_c = 2$ |
-| 04 | [Annealed Approximation](notebooks/04_annealed_approximation.ipynb) | §2.4 | Annealed Theory and iterative maps $f_1(\varepsilon), f_2(\varepsilon)$ |
-| 05 | [Generalization (Annealed)](notebooks/05_generalization_annealed.ipynb) | §2.4-2.5 | Order parameter $R(\alpha)$, parametric solver |
-| 06 | [Generalization (Quenched)](notebooks/06_generalization_quenched.ipynb) | §2.5 | Quenched Theory, $I(R)$ integral |
-| 07 | [Learning Algorithms](notebooks/07_learning_algorithms.ipynb) | §2.6-2.8 | Hebb, Adaline, Pseudo-inverse, Bayesian |
+| # | Notebook | Topic |
+|---|----------|---------------|
+| 01 | [Polynomial Regression](notebooks/01_polynomial_regression.ipynb) | MLE, bias-variance tradeoff |
+| 02 | [Perceptron Basics](notebooks/02_perceptron_basics.ipynb) | Weight evolution |
+| 03 | [Perceptron + Noise](notebooks/03_perceptron_noise.ipynb) | Noisy learning, storage capacity $\alpha_c = 2$ |
+| 04 | [Annealed Approximation](notebooks/04_annealed_approximation.ipynb) | Annealed Theory and iterative maps $f_1(\varepsilon), f_2(\varepsilon)$ |
+| 05 | [Generalization (Annealed)](notebooks/05_generalization_annealed.ipynb) | Order parameter $R(\alpha)$, parametric solver |
+| 06 | [Generalization (Quenched)](notebooks/06_generalization_quenched.ipynb) | Quenched Theory, $I(R)$ integral |
+| 07 | [Learning Algorithms](notebooks/07_learning_algorithms.ipynb) | Hebb, Adaline, Pseudo-inverse, Bayesian |
 
 ## 🔬 Key Concepts
 
