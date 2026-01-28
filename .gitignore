@@ -1,6 +1,29 @@
+# Python
 venv/
-
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
 
+# Environment
 .env
+.venv
+GUIDELINES.md
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific (keep results but ignore generated outputs)
+*.log
