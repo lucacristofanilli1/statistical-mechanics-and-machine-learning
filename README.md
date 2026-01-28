@@ -1,4 +1,4 @@
-# Statistical Mechanics of Learning
+# Statistical Mechanics and Machine Learning
 
 A professional scientific portfolio implementing concepts from **"Statistical Mechanics of Learning"** by A. Engel & C. Van den Broeck.
 
